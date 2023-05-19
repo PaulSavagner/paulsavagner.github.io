@@ -34,3 +34,8 @@ categories: random
 - [intro to shell scripting](https://www.guru99.com/introduction-to-shell-scripting.html)
 - [Unix Shell tutorial](https://swcarpentry.github.io/shell-novice/)
 - [tldr for man pages](https://github.com/tldr-pages/tldr)
+
+### Jekyll
+[3 Simple steps to setup Jekyll Categories and Tags](https://blog.webjeda.com/jekyll-categories/)
+This article is a great guide on how to set up a categories page with Jekyll.
+

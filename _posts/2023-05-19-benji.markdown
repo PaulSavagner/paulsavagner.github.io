@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "benji"
+date:   2023-05-19 11:18:52 +0200
+---
+
+My dog
+
+![A picture of a dog](/assets/jenny.jpeg)
